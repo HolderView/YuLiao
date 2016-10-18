@@ -25,11 +25,7 @@ public abstract class AbsBaseFragment extends Fragment {
         this.context = context;
     }
 
-    protected abstract int setLayout();
 
-    protected abstract void initViews();
-
-    protected abstract void initDatas();
 
     @Nullable
     @Override
@@ -48,6 +44,11 @@ public abstract class AbsBaseFragment extends Fragment {
         super.onActivityCreated(savedInstanceState);
         initDatas();
     }
+    protected abstract int setLayout();
+
+    protected abstract void initViews();
+
+    protected abstract void initDatas();
 
     protected <T extends View> T byView(int resId) {
         return (T) getView().findViewById(resId);
