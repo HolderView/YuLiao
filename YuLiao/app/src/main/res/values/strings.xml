@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">YuLiao</string>
+
+    <!--TabLayoutTitle-->
+    <string name="chat">聊天</string>
+    <string name="map">地图</string>
+    <string name="video">视频</string>
+    <string name="person">个人</string>
 </resources>

@@ -9,7 +9,128 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84833738-32fc-4d90-9071-93989be27438" name="Default" comment="" />
+    <list default="true" readonly="true" id="84833738-32fc-4d90-9071-93989be27438" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InitActivity/InitActivity.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/R.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/EGL$ComponentSizeChooser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/EGL$EGLConfigChooser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/EGL$EGLContextFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/EGL$EGLWindowSurfaceFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/EGL$SimpleEGLConfigChooser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/EGL.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaFile$MediaFileType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaFormat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaMetadataRetriever.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaPlayer$EventHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaPlayer$OnBufferingUpdateListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaPlayer$OnCachingUpdateListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaPlayer$OnCompletionListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaPlayer$OnErrorListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaPlayer$OnHWRenderFailedListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaPlayer$OnInfoListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaPlayer$OnPreparedListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaPlayer$OnSeekCompleteListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaPlayer$OnTimedTextListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaPlayer$OnVideoSizeChangedListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaPlayer$TrackInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaPlayer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaScanner$FileCacheEntry.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaScanner$MyMediaScannerClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaScanner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/MediaScannerClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/Metadata.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/ThumbnailUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/VIntent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/Vitamio.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/VitamioLicense.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/activity" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/activity/InitActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/activity/InitActivity$UIHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/activity/InitActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/provider" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/provider/MediaStore$Audio$AudioColumns.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/provider/MediaStore$Audio$Media.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/provider/MediaStore$Audio.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/provider/MediaStore$InternalThumbnails.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/provider/MediaStore$MediaColumns.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/provider/MediaStore$Video$Media.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/provider/MediaStore$Video$Thumbnails.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/provider/MediaStore$Video$VideoColumns.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/provider/MediaStore$Video.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/provider/MediaStore.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/provider/MiniThumbFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/utils" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/utils/Base64$Coder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/utils/Base64$Decoder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/utils/Base64$Encoder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/utils/Base64.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/utils/CPU.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/utils/ContextUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/utils/Crypto.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/utils/Device.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/utils/FileUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/utils/IOUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/utils/Log.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/utils/ScreenResolution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/utils/StringUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/CenterLayout$LayoutParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/CenterLayout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/MediaController$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/MediaController$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/MediaController$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/MediaController$MediaPlayerControl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/MediaController$OnHiddenListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/MediaController$OnShownListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/MediaController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/OutlineTextView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/VideoView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/VideoView$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/VideoView$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/VideoView$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/VideoView$5$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/VideoView$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/VideoView$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/VideoView$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/VideoView$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/VideoView$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/classes/io/vov/vitamio/widget/VideoView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/initactivity.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/res" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/res/crunch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/res/crunch/drawable-hdpi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/res/crunch/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/res/crunch/drawable-ldpi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/res/crunch/drawable-ldpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/res/crunch/drawable-mdpi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/res/crunch/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/res/crunch/drawable-xhdpi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/res/crunch/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/res/crunch/drawable-xhdpi/mediacontroller_pause.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/res/crunch/drawable-xhdpi/mediacontroller_play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/res/crunch/drawable-xhdpi/scrubber_control_disabled_holo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/res/crunch/drawable-xhdpi/scrubber_control_focused_holo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/res/crunch/drawable-xhdpi/scrubber_control_normal_holo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/res/crunch/drawable-xhdpi/scrubber_control_pressed_holo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/res/crunch/drawable-xhdpi/scrubber_primary_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/res/crunch/drawable-xhdpi/scrubber_secondary_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InitActivity/bin/res/crunch/drawable-xhdpi/scrubber_track_holo_dark.9.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/InitActivity/build.gradle" afterPath="$PROJECT_DIR$/InitActivity/build.gradle" />
+    </list>
     <ignored path="YuLiao.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,112 +158,28 @@
     <favorites_list name="YuLiao" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Z_MapFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dllo/yuliao/ui/fragment/Z_MapFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dllo/yuliao/ui/activity/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="45" column="73" selection-start-line="45" selection-start-column="73" selection-end-line="45" selection-end-column="73" />
+            <state vertical-scroll-proportion="0.58844763">
+              <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1439#1478#0" expanded="true" />
+                <element signature="e#1550#1588#0" expanded="true" />
+                <element signature="e#1659#1699#0" expanded="true" />
+                <element signature="e#1772#1813#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.1454544">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fragment_video.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_video.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.6666667">
-              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.428571">
-              <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="selector_map.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/selector_map.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.7142856">
-              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="selector_person.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/selector_person.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.7142856">
-              <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="selector_video.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/selector_video.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.392857">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="selector_chat.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/selector_chat.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.392857">
-              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.68812877">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state vertical-scroll-proportion="-1.0363636">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -2494,15 +2531,16 @@
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/selector_map.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/selector_person.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/selector_video.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/dllo/yuliao/ui/activity/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/dllo/yuliao/ui/activity/MainActivity.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="7" />
+    <option name="x" value="208" />
     <option name="y" value="23" />
     <option name="width" value="1752" />
     <option name="height" value="984" />
@@ -2532,8 +2570,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YuLiao" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2744,36 +2793,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="YuLiao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="YuLiao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -2894,24 +2913,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="YuLiao" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../../Android-SDK-mac" />
-    <property name="device.picker.selection" value="192.168.56.101:5555" />
+    <property name="device.picker.selection" value="8819be4" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -3182,8 +3190,27 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration">
-    <configuration />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/InitActivity" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/InitActivity" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/InitActivity" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/InitActivity" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -3195,38 +3222,46 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="23" width="1752" height="984" extended-state="0" />
+    <frame x="208" y="23" width="1752" height="984" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24385965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24385965" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24970761" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20350876" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20350876" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -3236,27 +3271,104 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dllo/yuliao/ui/fragment/Z_MapFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dllo/yuliao/ui/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="73" selection-start-line="45" selection-start-column="73" selection-end-line="45" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1439#1478#0" expanded="true" />
+            <element signature="e#1550#1588#0" expanded="true" />
+            <element signature="e#1659#1699#0" expanded="true" />
+            <element signature="e#1772#1813#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_video.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/selector_map.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/selector_person.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/selector_video.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/selector_chat.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gradle.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dllo/yuliao/ui/view.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dllo/yuliao/ui/activity/AbsBaseActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3265,8 +3377,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
           <folding>
-            <element signature="e#1426#1427#0" expanded="true" />
-            <element signature="e#1482#1483#0" expanded="true" />
+            <element signature="e#1426#1427#0" expanded="false" />
+            <element signature="e#1482#1483#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3276,7 +3388,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3308,9 +3420,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#474#475#0" expanded="false" />
+            <element signature="e#519#520#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3320,7 +3432,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3348,7 +3460,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/selector_chat.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.392857">
+        <state vertical-scroll-proportion="0.0">
           <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
           <folding />
         </state>
@@ -3356,7 +3468,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/selector_map.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7142856">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
           <folding />
         </state>
@@ -3364,7 +3476,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/selector_person.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7142856">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
           <folding />
         </state>
@@ -3372,25 +3484,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.428571">
+        <state vertical-scroll-proportion="0.0">
           <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dllo/yuliao/ui/activity/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="73" selection-start-line="45" selection-start-column="73" selection-end-line="45" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.1454544">
+        <state vertical-scroll-proportion="0.0">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
@@ -3401,7 +3503,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6666667">
+        <state vertical-scroll-proportion="0.0">
           <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
           <folding />
         </state>
@@ -3409,8 +3511,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/selector_video.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.392857">
+        <state vertical-scroll-proportion="0.0">
           <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dllo/yuliao/ui/view.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -3420,9 +3530,39 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68812877">
+        <state vertical-scroll-proportion="-6.0">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0363636">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dllo/yuliao/ui/activity/AbsBaseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65162456">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dllo/yuliao/ui/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58844763">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1439#1478#0" expanded="true" />
+            <element signature="e#1550#1588#0" expanded="true" />
+            <element signature="e#1659#1699#0" expanded="true" />
+            <element signature="e#1772#1813#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

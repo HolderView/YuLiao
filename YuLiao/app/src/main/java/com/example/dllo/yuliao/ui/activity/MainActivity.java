@@ -45,10 +45,10 @@ public class MainActivity extends AbsBaseActivity {
         mainTl.setupWithViewPager(mainVp);
         mainTl.setTabTextColors(Color.BLACK,Color.parseColor("#56abe4"));
 
-        mainTl.getTabAt(0).setText("聊天").setIcon(R.drawable.selector_chat);
-        mainTl.getTabAt(1).setText("地图").setIcon(R.drawable.selector_map);
-        mainTl.getTabAt(2).setText("视频").setIcon(R.drawable.selector_video);
-        mainTl.getTabAt(3).setText("个人").setIcon(R.drawable.selector_person);
+        mainTl.getTabAt(0).setText(getResources().getString(R.string.chat)).setIcon(R.drawable.selector_chat);
+        mainTl.getTabAt(1).setText(getResources().getString(R.string.map)).setIcon(R.drawable.selector_map);
+        mainTl.getTabAt(2).setText(getResources().getString(R.string.video)).setIcon(R.drawable.selector_video);
+        mainTl.getTabAt(3).setText(getResources().getString(R.string.person)).setIcon(R.drawable.selector_person);
 
     }
 
